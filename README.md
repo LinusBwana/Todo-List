@@ -1,7 +1,7 @@
 **✅ To-Do List App – My First Django Project**
 This repository contains my first Django project — a To-Do List Web App. Through building this project, I was introduced to the core concepts of Django web development and backend functionality.
 
-**🧠 What I Learned** <br>
+**🧠 What I Learnet** <br>
 Setting up a new Django project and creating reusable apps
 
 Designing and working with Django models to represent tasks
